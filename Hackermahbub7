@@ -1,0 +1,5 @@
+Apt update
+Apt upgrade 
+Pkg install git
+Pkg inatall python2
+git clone https://github.com/Hackermahbub22/Hackermahbub22.git
